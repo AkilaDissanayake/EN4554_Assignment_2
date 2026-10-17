@@ -1,0 +1,6 @@
+data/
+results/
+results_quick/
+.ipynb_checkpoints/
+__pycache__/
+*.pptx
